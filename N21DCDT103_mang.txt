@@ -1,0 +1,16 @@
+weather:
+- Loại từ: danh từ
+  Nghĩa: thời tiết
+  Ví dụ: The weather today is sunny 
+
+news:
+- Loại từ: danh từ
+  Nghĩa: bản tin
+  Ví dụ: news is updated every hour
+
+horse:
+
+clothes:
+
+beautiful:
+
